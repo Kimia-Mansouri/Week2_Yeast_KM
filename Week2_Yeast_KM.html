@@ -148,13 +148,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="filter" class="level4">
 <h4 class="anchored" data-anchor-id="filter"><strong>Filter:</strong></h4>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">filtlong</span> <span class="at">--min_length</span> 1000 <span class="at">--keep_percent</span> 90 data/raw_reads/ERR1539001.fastq.gz <span class="kw">|</span> <span class="fu">gzip</span> <span class="op">&gt;</span> data/clean_reads/ont_filtered.fastq.gz</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">filtlong</span> <span class="at">--min_length</span> 1000 <span class="at">--keep_percent</span> 90 data/raw_reads/ERR1539001.fastq.gz <span class="kw">|</span> <span class="fu">gzip</span> <span class="op">&gt;</span> data/clean_reads/ERR1539001_filtered.fastq.gz</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="verify" class="level4">
 <h4 class="anchored" data-anchor-id="verify"><strong>Verify:</strong>&nbsp;</h4>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">sequali</span> data/clean_reads/ont_filtered.fastq.gz</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">sequali</span> data/clean_reads/ERR1539001_filtered.fastq.gz <span class="at">--outdir</span> reports/post_report</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 </section>
