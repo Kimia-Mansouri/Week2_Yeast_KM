@@ -53,12 +53,12 @@ dir.create("data/clean_reads")
 
 ```{bash}
 #| eval: false 
-filtlong --min_length 1000 --keep_percent 90 data/raw_reads/ERR1539001.fastq.gz | gzip > data/clean_reads/ont_filtered.fastq.gz
+filtlong --min_length 1000 --keep_percent 90 data/raw_reads/ERR1539001.fastq.gz | gzip > data/clean_reads/ERR1539001_filtered.fastq.gz
 ```
 
 #### **Verify:** 
 
 ```{bash}
 #| eval: false 
-sequali data/clean_reads/ont_filtered.fastq.gz
+sequali data/clean_reads/ERR1539001_filtered.fastq.gz --outdir reports/post_report
 ```
