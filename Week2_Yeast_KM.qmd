@@ -31,6 +31,8 @@ list.files("data/raw_reads/")
 
 ## **Step 3: The Audit & Filter (Replication)**
 
+#### **Audit:** 
+
 ```{bash}
 #| eval: false 
 conda activate sequali_env
@@ -38,4 +40,25 @@ conda activate sequali_env
 mkdir reports 
 
 sequali data/raw_reads/ERR1539001.fastq.gz --outdir reports/pre_report
+```
+
+#### **Prepare Output Directory:**
+
+```{r}
+#| eval: false 
+dir.create("data/clean_reads")
+```
+
+#### **Filter:**
+
+```{bash}
+#| eval: false 
+filtlong --min_length 1000 --keep_percent 90 data/raw_reads/ERR1539001.fastq.gz | gzip > data/clean_reads/ont_filtered.fastq.gz
+```
+
+#### **Verify:** 
+
+```{bash}
+#| eval: false 
+sequali data/clean_reads/ont_filtered.fastq.gz
 ```
