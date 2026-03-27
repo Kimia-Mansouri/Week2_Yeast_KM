@@ -45,5 +45,70 @@ if(length(header_lines) == 17) {
 ## **Step 1: Assembly with Flye & Log Audit**
 
 ```{bash}
-flye /Users/kdesai01/Desktop/Genmics_and_transcriptomics/Week2_Yeast_Project/data/clean_reads/ERR1539001_Clean.fastq.gz --outdir data/assamble_genomes --genome-size 12m --threads 8  --scaffold --iterations 5
+#| echo: False
+#| eval: False
+
+
+# Activate conda evnvironment Fly_env
+Conda activate flye_env
+
+#Crete genome assembly folder
+mkdir data/Genome_assembly
+
+#Run fly on your daa
+flye /Users/kdesai01/Desktop/Genmics_and_transcriptomics/Week2_Yeast_Project/data/clean_reads/ERR1539001_Clean.fastq.gz --out-dir data/assamble_genomes --genome-size 12m --threads 8  --scaffold --iterations 5
 ```
+
+## **Step 2: Polishing with Medaka**
+
+```{bash}
+#| echo: False
+#| eval: False
+
+
+# Deactivate conda evnvironment Fly_env
+Conda deactivate
+
+# Activate conda evnvironment medaka_env
+Conda activate medaka_env
+
+#Crete genome assembly folder
+mkdir data/apolished_assembly
+
+#Run fly on your daa
+medaka_consensus  -i /Users/kdesai01/Desktop/Genmics_and_transcriptomics/Week2_Yeast_Project/data/clean_reads/ERR1539001_Clean.fastq.gz -d /data/assamble_genomes/assembly.fasta -o data/apolished_assembly -t 8 
+```
+
+# **Part 3: Technical & Biological Audit (Docker)**
+
+## **1. QUAST (Technical Quality)**
+
+```{bash}
+#| echo: False
+#| eval: False
+
+echo 'export PATH="$HOME/.docker/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+
+docker pull quay.io/biocontainers/quast:5.3.0--py313pl5321h5ca1c30_2
+
+docker run --rm quay.io/biocontainers/quast:5.3.0--py313pl5321h5ca1c30_2 quast.py -h
+
+docker run --rm -v "$(pwd)":/data -w /data quay.io/biocontainers/quast:5.3.0--py313pl5321h5ca1c30_2  quast.py data/apolished_assembly/consensus.fasta --fungus -r S288C_UCSC.fna -o reports/quast_output
+```
+
+## **2. BUSCO (Biological Completeness)**
+
+```{bash}
+docker pull busco/busco:v6.0.0_cv1
+
+docker run --rm \
+-v "$PWD":/data \
+-w /data \
+ezlabgva/busco:v6.0.0_cv1 \
+busco -i data/apolished_assembly/consensus.fasta  -o reports/busco_repots -l saccharomycetaceae_odb12 -m genome -c 8
+```
+
+# **Part 4: Structural Validation (R & Gviz)**
+
+## **Step 1: High-Efficiency Alignment & Indexing**
