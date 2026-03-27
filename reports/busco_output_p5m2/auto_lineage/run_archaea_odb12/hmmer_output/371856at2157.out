@@ -1,0 +1,14 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_51:13313-13534|+ -             74 371856               -            461     0.059   10.8   0.0   1   1     9e-06     0.068   10.6   0.0   183   207     9    33     2    37 0.86 contig_51_11 # 13313 # 13534 # 1 # ID=24_11;partial=00;start_type=TTG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.455
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/archaea_odb12/hmms/371856at2157.hmm
+# Target file:     reports/busco_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_archaea_odb12/hmmer_output/371856at2157.out --cpu 1 /data/busco_downloads/lineages/archaea_odb12/hmms/371856at2157.hmm reports/busco_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:03:28 2026
+# [ok]

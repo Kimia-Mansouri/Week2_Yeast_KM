@@ -1,0 +1,3 @@
+contig_149	miniprot	mRNA	25530	26151	573	-	.	ID=MP011094;Rank=1;Identity=0.7656;Positive=0.8086;Frameshift=8;StopCodon=1;Target=10252587at2759_27291_0:000310 1 208
+contig_149	miniprot	CDS	25530	26151	573	-	0	Parent=MP011094;Rank=1;Identity=0.7656;Frameshift=8;StopCodon=1;Target=10252587at2759_27291_0:000310 1 208
+contig_149	miniprot	stop_codon	25530	25532	0	-	0	Parent=MP011094;Rank=1

@@ -1,0 +1,3 @@
+contig_37	miniprot	mRNA	20555	21348	802	+	.	ID=MP010741;Rank=1;Identity=0.7987;Positive=0.8512;Frameshift=10;Target=272245at2759_27291_0:000410 1 265
+contig_37	miniprot	CDS	20555	21348	802	+	0	Parent=MP010741;Rank=1;Identity=0.7987;Frameshift=10;Target=272245at2759_27291_0:000410 1 265
+contig_37	miniprot	stop_codon	21346	21348	0	+	0	Parent=MP010741;Rank=1

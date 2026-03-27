@@ -1,0 +1,3 @@
+contig_301	miniprot	mRNA	5637	6177	618	-	.	ID=MP011209;Rank=1;Identity=0.8382;Positive=0.8658;Frameshift=4;Target=10249667at2759_27291_0:0005a8 6 181
+contig_301	miniprot	CDS	5637	6177	618	-	0	Parent=MP011209;Rank=1;Identity=0.8382;Frameshift=4;Target=10249667at2759_27291_0:0005a8 6 181
+contig_301	miniprot	stop_codon	5637	5639	0	-	0	Parent=MP011209;Rank=1

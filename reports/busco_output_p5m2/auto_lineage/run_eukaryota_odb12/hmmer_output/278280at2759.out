@@ -1,0 +1,23 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+278280at2759_226126_0:001351|contig_33:1599-2573|+  -            319 278280               -            373   3.3e-19   59.1  17.2   1   1   3.6e-19   5.6e-19   58.3  17.2     7   276     3   249     1   264 0.70 <unknown description>
+278280at2759_1245769_0:000844|contig_33:1590-2372|+ -            258 278280               -            373     7e-17   51.4  23.9   1   1   2.4e-16   3.7e-16   49.1  23.9     3   276     3   253     1   258 0.73 <unknown description>
+278280at2759_175694_0:00164f|contig_33:1593-2103|+  -            169 278280               -            373   1.1e-14   44.1  13.5   1   2   8.1e-09   1.3e-08   24.3   6.7     3    63     2    59     1    78 0.69 <unknown description>
+278280at2759_175694_0:00164f|contig_33:1593-2103|+  -            169 278280               -            373   1.1e-14   44.1  13.5   2   2   6.9e-09   1.1e-08   24.5   0.5   114   193    99   168    98   169 0.80 <unknown description>
+278280at2759_113334_0:001bbd|contig_33:2035-2334|+  -            100 278280               -            373   3.2e-09   26.2   0.1   1   1   2.2e-09   3.4e-09   26.1   0.1   173   261     3    92     1   100 0.73 <unknown description>
+278280at2759_5698_0:0006c8|contig_33:1599-1849|+    -             84 278280               -            373   1.2e-08   24.3   7.7   1   1   8.2e-09   1.3e-08   24.2   7.7     7    71     3    61     1    77 0.58 <unknown description>
+278280at2759_4081_0:004a2b|contig_33:1590-1796|+    -             69 278280               -            373   2.2e-08   23.4  13.9   1   1   1.5e-08   2.3e-08   23.4  13.9     3    69     3    66     1    69 0.68 <unknown description>
+278280at2759_1485682_0:00079d|contig_33:1596-1689|+ -             32 278280               -            373   2.8e-08   23.1   4.9   1   1   1.8e-08   2.9e-08   23.1   4.9     4    35     2    32     1    32 0.84 <unknown description>
+278280at2759_51637_0:00267d|contig_33:1584-1716|+   -             45 278280               -            373   3.4e-08   22.8   7.0   1   1   2.2e-08   3.4e-08   22.8   7.0     3    37     5    38     3    44 0.84 <unknown description>
+278280at2759_145388_0:003729|contig_33:1644-1704|+  -             21 278280               -            373   7.4e-07   18.4   3.1   1   1   4.8e-07   7.4e-07   18.4   3.1    20    36     1    17     1    20 0.93 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/278280at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/278280at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/278280at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/278280at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/278280at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:38 2026
+# [ok]

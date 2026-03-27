@@ -1,0 +1,3 @@
+contig_423	miniprot	mRNA	22736	25133	3000	+	.	ID=MP002406;Rank=1;Identity=0.8645;Positive=0.9076;Frameshift=22;StopCodon=1;Target=441771at2759_27291_0:0002da 1 810
+contig_423	miniprot	CDS	22736	25133	3000	+	0	Parent=MP002406;Rank=1;Identity=0.8645;Frameshift=22;StopCodon=1;Target=441771at2759_27291_0:0002da 1 810
+contig_423	miniprot	stop_codon	25131	25133	0	+	0	Parent=MP002406;Rank=1

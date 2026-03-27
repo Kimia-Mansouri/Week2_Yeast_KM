@@ -1,0 +1,3 @@
+contig_151	miniprot	mRNA	2902	4786	2115	-	.	ID=MP004058;Rank=1;Identity=0.8102;Positive=0.8495;Frameshift=22;StopCodon=1;Target=437331at2759_27291_0:0012ed 1 631
+contig_151	miniprot	CDS	2902	4786	2115	-	0	Parent=MP004058;Rank=1;Identity=0.8102;Frameshift=22;StopCodon=1;Target=437331at2759_27291_0:0012ed 1 631
+contig_151	miniprot	stop_codon	2902	2904	0	-	0	Parent=MP004058;Rank=1

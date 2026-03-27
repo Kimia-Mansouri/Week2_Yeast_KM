@@ -53,3 +53,23 @@ medaka_consensus -i "ankur/clean_reads/ERR1539001_filtered.fastq" -d "ankur/asse
 ```{bash}
 medaka_consensus -i "ankur/clean_reads/ERR1539001_filtered.fastq" -d "ankur/polished_genomes/consensus1.fasta" -o "ankur/polished_genomes" -t 8 
 ```
+
+```{bash}
+docker run quast -o " -r 
+```
+
+```{bash}
+docker run --rm -v "$(pwd)":/data -w /data quay.io/biocontainers/quast:5.3.0--py313pl5321h5ca1c30_2 \
+quast.py ankur/polished_genomes/consensus.fasta \
+--fungus \
+-r GCF_000146045.2_R64_genomic.test.fna \
+-o reports/5_quast_output
+```
+
+```{bash}
+docker run --rm \
+-v "$PWD":/data \
+-w /data \
+ezlabgva/busco:v6.0.0_cv1 \
+busco -i ankur/polished_genomes/consensus.fasta  -o reports/busco_output -m genome -c 8
+```

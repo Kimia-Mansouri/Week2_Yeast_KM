@@ -1,0 +1,3 @@
+contig_109	miniprot	mRNA	17412	18406	1145	+	.	ID=MP009123;Rank=1;Identity=0.8546;Positive=0.8937;Frameshift=11;Target=421002at2759_226126_0:000bef 1 325
+contig_109	miniprot	CDS	17412	18406	1145	+	0	Parent=MP009123;Rank=1;Identity=0.8546;Frameshift=11;Target=421002at2759_226126_0:000bef 1 325
+contig_109	miniprot	stop_codon	18404	18406	0	+	0	Parent=MP009123;Rank=1

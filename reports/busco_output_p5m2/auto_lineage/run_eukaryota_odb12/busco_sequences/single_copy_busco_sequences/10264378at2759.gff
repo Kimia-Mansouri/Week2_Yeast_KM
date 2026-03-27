@@ -1,0 +1,3 @@
+contig_342	miniprot	mRNA	6833	8668	734	-	.	ID=MP003135;Rank=1;Identity=0.5222;Positive=0.6060;Frameshift=29;StopCodon=3;Target=10264378at2759_27291_0:0009e8 1 721
+contig_342	miniprot	CDS	6833	8668	734	-	0	Parent=MP003135;Rank=1;Identity=0.5222;Frameshift=29;StopCodon=3;Target=10264378at2759_27291_0:0009e8 1 721
+contig_342	miniprot	stop_codon	6833	6835	0	-	0	Parent=MP003135;Rank=1

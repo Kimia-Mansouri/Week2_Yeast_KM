@@ -1,0 +1,15 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1911237at2759_226126_0:001380|contig_390:11948-12201|+ -             82 1911237              -            328   1.3e-14   41.5   0.1   1   1   9.4e-15   1.4e-14   41.4   0.1     6    72    14    82     9    82 0.83 <unknown description>
+1911237at2759_13502_0:000af2|contig_390:12004-12201|+  -             64 1911237              -            328   6.2e-14   39.3   0.2   1   1   4.2e-14   6.4e-14   39.2   0.2    17    72     7    64     1    64 0.82 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/1911237at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1911237at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/1911237at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/1911237at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1911237at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:37 2026
+# [ok]

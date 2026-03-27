@@ -1,0 +1,2 @@
+contig_106	miniprot	mRNA	37172	38486	1180	+	.	ID=MP006646;Rank=1;Identity=0.7799;Positive=0.8486;Frameshift=25;StopCodon=1;Target=274828at2759_27291_0:0007ee 1 450
+contig_106	miniprot	CDS	37172	38486	1180	+	0	Parent=MP006646;Rank=1;Identity=0.7799;Frameshift=25;StopCodon=1;Target=274828at2759_27291_0:0007ee 1 450

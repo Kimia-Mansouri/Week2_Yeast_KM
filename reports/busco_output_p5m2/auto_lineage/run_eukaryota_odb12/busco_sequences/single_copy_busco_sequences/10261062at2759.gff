@@ -1,0 +1,3 @@
+contig_415	miniprot	mRNA	8002	8681	339	-	.	ID=MP006649;Rank=1;Identity=0.4879;Positive=0.6291;Frameshift=8;StopCodon=1;Target=10261062at2759_1380566_0:00136c 22 253
+contig_415	miniprot	CDS	8323	8681	153	-	0	Parent=MP006649;Rank=1;Identity=0.4709;Frameshift=5;Target=10261062at2759_1380566_0:00136c 22 150
+contig_415	miniprot	CDS	8002	8302	186	-	1	Parent=MP006649;Rank=1;Identity=0.5098;Frameshift=3;StopCodon=1;Target=10261062at2759_1380566_0:00136c 151 253

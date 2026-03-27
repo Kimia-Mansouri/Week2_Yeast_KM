@@ -1,0 +1,3 @@
+contig_299	miniprot	mRNA	6089	9189	3084	-	.	ID=MP000070;Rank=1;Identity=0.8191;Positive=0.8795;Frameshift=54;StopCodon=1;Target=26184at2759_27291_0:001003 1 1029
+contig_299	miniprot	CDS	6089	9189	3084	-	0	Parent=MP000070;Rank=1;Identity=0.8191;Frameshift=54;StopCodon=1;Target=26184at2759_27291_0:001003 1 1029
+contig_299	miniprot	stop_codon	6089	6091	0	-	0	Parent=MP000070;Rank=1

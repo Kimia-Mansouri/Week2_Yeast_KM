@@ -1,0 +1,3 @@
+contig_289	miniprot	mRNA	38969	40119	864	+	.	ID=MP008003;Rank=1;Identity=0.7176;Positive=0.8135;Frameshift=22;StopCodon=1;Target=10253098at2759_27291_0:0014e6 1 374
+contig_289	miniprot	CDS	38969	40119	864	+	0	Parent=MP008003;Rank=1;Identity=0.7176;Frameshift=22;StopCodon=1;Target=10253098at2759_27291_0:0014e6 1 374
+contig_289	miniprot	stop_codon	40117	40119	0	+	0	Parent=MP008003;Rank=1

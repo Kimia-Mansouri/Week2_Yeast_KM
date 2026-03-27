@@ -1,0 +1,2 @@
+##gff-version 3
+contig_368	QUAST	possible_assembly_error	12163	12164	.	.	.	Name=Extensive misassembly;type=relocation;Note=inconsistency is 2209

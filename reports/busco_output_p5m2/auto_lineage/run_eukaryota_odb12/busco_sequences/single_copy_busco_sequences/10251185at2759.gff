@@ -1,0 +1,3 @@
+contig_423	miniprot	mRNA	48682	49276	783	+	.	ID=MP011159;Rank=1;Identity=0.8708;Positive=0.9060;Frameshift=6;Target=10251185at2759_27291_0:000292 1 197
+contig_423	miniprot	CDS	48682	49276	783	+	0	Parent=MP011159;Rank=1;Identity=0.8708;Frameshift=6;Target=10251185at2759_27291_0:000292 1 197
+contig_423	miniprot	stop_codon	49274	49276	0	+	0	Parent=MP011159;Rank=1

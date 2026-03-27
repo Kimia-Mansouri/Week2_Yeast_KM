@@ -1,0 +1,29 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: archaea_odb12 (Creation date: 2025-05-14, number of genomes: 157, number of BUSCOs: 195)
+# Summarized benchmarking in BUSCO notation for file /data/ankur/polished_genomes/consensus.fasta
+# BUSCO was run in mode: prok_genome_prod
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:195	   
+	0	Complete BUSCOs (C)			   
+	0	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	0	Fragmented BUSCOs (F)			   
+	195	Missing BUSCOs (M)			   
+	195	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	432	Number of scaffolds
+	432	Number of contigs
+	9194334	Total length
+	0.000%	Percent gaps
+	26 kbp	Scaffold N50
+	26 kbp	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbtools: None
+	prodigal: 2.6.3

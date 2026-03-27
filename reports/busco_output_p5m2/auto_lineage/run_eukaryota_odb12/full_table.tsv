@@ -1,0 +1,132 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: eukaryota_odb12 (Creation date: 2025-07-01, number of genomes: 456, number of BUSCOs: 129)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+88at2759	Missing
+844at2759	Missing
+1650at2759	Missing
+1928at2759	Missing
+2083at2759	Missing
+2516at2759	Complete	contig_265	3639	4541	+	270.0	232	https://www.orthodb.org/?query=2516at2759	diphthine
+2877at2759	Missing
+3370at2759	Missing
+3763at2759	Complete	contig_55	12978	11564	-	252.6	419	https://www.orthodb.org/?query=3763at2759	DNA polymerase
+4249at2759	Complete	contig_261	19133	20082	+	114.3	227	https://www.orthodb.org/?query=4249at2759	ubiquinone biosynthesis
+6022at2759	Missing
+15082at2759	Missing
+15808at2759	Missing
+17948at2759	Missing
+18786at2759	Missing
+19740at2759	Missing
+20844at2759	Missing
+24948at2759	Missing
+25498at2759	Missing
+26184at2759	Complete	contig_299	9189	6091	-	328.7	849	https://www.orthodb.org/?query=26184at2759	vacuolar sorting
+26970at2759	Missing
+27543at2759	Missing
+28947at2759	Missing
+29058at2759	Complete	contig_65	12589	11839	-	93.7	173	https://www.orthodb.org/?query=29058at2759	u3 small nucleolar RNA-associated protein
+30179at2759	Missing
+30343at2759	Missing
+70224at2759	Complete	contig_342	20153	19069	-	154.8	215	https://www.orthodb.org/?query=70224at2759	phosphopantothenate--cysteine ligase
+124397at2759	Missing
+125856at2759	Fragmented	contig_265	7685	10195	+	80.8	350	https://www.orthodb.org/?query=125856at2759	exocyst complex component
+163257at2759	Missing
+189968at2759	Missing
+190958at2759	Missing
+243313at2759	Missing
+248751at2759	Missing
+269405at2759	Missing
+269919at2759	Missing
+270624at2759	Missing
+272245at2759	Complete	contig_37	20554	21345	+	91.0	226	https://www.orthodb.org/?query=272245at2759	exosome complex
+272987at2759	Missing
+273340at2759	Missing
+274828at2759	Fragmented	contig_106	37171	38486	+	82.6	301	https://www.orthodb.org/?query=274828at2759	ribosomal protein
+277175at2759	Missing
+277199at2759	Missing
+278280at2759	Missing
+283883at2759	Complete	contig_289	38689	37973	-	132.1	223	https://www.orthodb.org/?query=283883at2759	SNF8
+284275at2759	Fragmented	contig_410	38	448	+	111.5	123	https://www.orthodb.org/?query=284275at2759	transcription factor
+285729at2759	Missing
+295656at2759	Missing
+296793at2759	Missing
+308449at2759	Missing
+311633at2759	Missing
+338231at2759	Missing
+338614at2759	Missing
+340500at2759	Missing
+344220at2759	Missing
+360521at2759	Missing
+391137at2759	Missing
+407922at2759	Missing
+421002at2759	Complete	contig_109	17411	18403	+	311.2	299	https://www.orthodb.org/?query=421002at2759	deoxyhypusine hydroxylase
+422663at2759	Missing
+431825at2759	Complete	contig_4	31784	33635	+	278.2	477	https://www.orthodb.org/?query=431825at2759	Esf1
+437331at2759	Complete	contig_151	4786	2904	-	549.7	502	https://www.orthodb.org/?query=437331at2759	ELECTRON TRANSFER FLAVOPROTEIN-UBIQUINONE OXIDOREDUCTASE
+441223at2759	Missing
+441771at2759	Complete	contig_423	22735	25130	+	299.2	547	https://www.orthodb.org/?query=441771at2759	nucleolar protein
+443772at2759	Missing
+445326at2759	Fragmented	contig_55	22546	21406	-	204.7	249	https://www.orthodb.org/?query=445326at2759	u3 small nucleolar
+540662at2759	Missing
+674963at2759	Complete	contig_65	18366	18945	+	62.1	137	https://www.orthodb.org/?query=674963at2759	Coiled-coil domain-containing protein
+1584384at2759	Missing
+1649088at2759	Complete	contig_191	28284	29556	+	345.9	341	https://www.orthodb.org/?query=1649088at2759	2-(3-amino-3-carboxypropyl)histidine synthase subunit 1
+1698572at2759	Missing
+1704689at2759	Complete	contig_199	12243	12821	+	110.3	119	https://www.orthodb.org/?query=1704689at2759	cytochrome c oxidase assembly protein
+1715808at2759	Complete	contig_289	53870	48840	-	120.6	179	https://www.orthodb.org/?query=1715808at2759	electron transfer flavoprotein
+1726137at2759	Complete	contig_296	26164	24698	-	395.2	352	https://www.orthodb.org/?query=1726137at2759	cytochrome c oxidase assembly
+1739576at2759	Fragmented	contig_307	10621	9900	-	50.5	106	https://www.orthodb.org/?query=1739576at2759	pre-mRNA-splicing factor
+1741719at2759	Missing
+1847590at2759	Missing
+1898821at2759	Missing
+1911237at2759	Fragmented	contig_390	11948	12201	+	41.5	67	https://www.orthodb.org/?query=1911237at2759	RNA 3' terminal phosphate cyclase
+1925287at2759	Missing
+1933455at2759	Missing
+1935146at2759	Missing
+2187159at2759	Missing
+2192561at2759	Complete	contig_13	8878	7463	-	273.9	410	https://www.orthodb.org/?query=2192561at2759	BYSTIN
+2195431at2759	Missing
+2196187at2759	Complete	contig_47	31382	30319	-	79.0	224	https://www.orthodb.org/?query=2196187at2759	sda1
+3142434at2759	Complete	contig_17	13819	11036	-	899.5	812	https://www.orthodb.org/?query=3142434at2759	periodic tryptophan protein
+5414888at2759	Missing
+5421607at2759	Complete	contig_29	23535	25387	+	94.0	556	https://www.orthodb.org/?query=5421607at2759	SRP72
+5571054at2759	Missing
+5581181at2759	Fragmented	contig_45	565	2383	+	161.5	388	https://www.orthodb.org/?query=5581181at2759	anaphase-promoting complex subunit
+7396459at2759	Missing
+8110916at2759	Fragmented	contig_171	20498	21001	+	76.1	147	https://www.orthodb.org/?query=8110916at2759	atp-dependent (s)-nad(p)h-hydrate dehydratase
+10040024at2759	Missing
+10248812at2759	Missing
+10249111at2759	Complete	contig_214	6572	7713	+	127.0	326	https://www.orthodb.org/?query=10249111at2759	PELOTA
+10249309at2759	Missing
+10249667at2759	Complete	contig_301	6177	5639	-	119.2	158	https://www.orthodb.org/?query=10249667at2759	malignant t-cell-amplified sequence 1
+10250970at2759	Missing
+10251185at2759	Complete	contig_423	48681	49273	+	182.6	169	https://www.orthodb.org/?query=10251185at2759	kinase
+10251574at2759	Missing
+10252281at2759	Missing
+10252405at2759	Missing
+10252587at2759	Complete	contig_149	26151	25532	-	75.3	185	https://www.orthodb.org/?query=10252587at2759	GINS complex
+10252687at2759	Fragmented	contig_109	4449	3262	-	38.5	247	https://www.orthodb.org/?query=10252687at2759	PCI domain-containing protein
+10252707at2759	Missing
+10253092at2759	Complete	contig_255	5429	6180	+	77.8	141	https://www.orthodb.org/?query=10253092at2759	Ribosome maturation protein
+10253098at2759	Complete	contig_289	38968	40116	+	215.1	378	https://www.orthodb.org/?query=10253098at2759	histone acetyltransferase
+10254665at2759	Missing
+10254730at2759	Missing
+10255118at2759	Missing
+10256122at2759	Missing
+10256606at2759	Complete	contig_171	10199	10833	+	100.0	153	https://www.orthodb.org/?query=10256606at2759	DNA-directed RNA polymerase
+10261062at2759	Complete	contig_415	8681	8001	-	50.1	62	https://www.orthodb.org/?query=10261062at2759	adenylyltransferase
+10261146at2759	Missing
+10261918at2759	Missing
+10262062at2759	Missing
+10262308at2759	Missing
+10262326at2759	Complete	contig_13	1288	27	-	270.2	357	https://www.orthodb.org/?query=10262326at2759	Transferase
+10263536at2759	Complete	contig_149	14261	15405	+	231.3	315	https://www.orthodb.org/?query=10263536at2759	aminomethyltransferase
+10263597at2759	Missing
+10264038at2759	Missing
+10264378at2759	Complete	contig_342	8668	6835	-	146.6	480	https://www.orthodb.org/?query=10264378at2759	u3 small nucleolar RNA-associated protein
+10264544at2759	Fragmented	contig_105	17481	16087	-	101.9	246	https://www.orthodb.org/?query=10264544at2759	protein
+10264728at2759	Missing
+10264910at2759	Missing
+10265695at2759	Missing
+10267031at2759	Missing
+10267436at2759	Complete	contig_76	9631	8068	-	461.0	381	https://www.orthodb.org/?query=10267436at2759	Notchless

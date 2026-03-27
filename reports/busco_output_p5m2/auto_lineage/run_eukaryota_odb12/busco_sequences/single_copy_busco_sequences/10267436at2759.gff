@@ -1,0 +1,3 @@
+contig_76	miniprot	mRNA	8066	9631	1765	-	.	ID=MP005456;Rank=1;Identity=0.8498;Positive=0.8918;Frameshift=24;StopCodon=1;Target=10267436at2759_27291_0:000204 4 515
+contig_76	miniprot	CDS	8066	9631	1765	-	0	Parent=MP005456;Rank=1;Identity=0.8498;Frameshift=24;StopCodon=1;Target=10267436at2759_27291_0:000204 4 515
+contig_76	miniprot	stop_codon	8066	8068	0	-	0	Parent=MP005456;Rank=1

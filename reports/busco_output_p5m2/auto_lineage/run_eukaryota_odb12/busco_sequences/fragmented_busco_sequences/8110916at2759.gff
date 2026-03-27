@@ -1,0 +1,2 @@
+contig_171	miniprot	mRNA	20499	21001	346	+	.	ID=MP008637;Rank=1;Identity=0.6686;Positive=0.7657;Frameshift=8;StopCodon=1;Target=8110916at2759_27291_0:000be1 1 174
+contig_171	miniprot	CDS	20499	21001	346	+	0	Parent=MP008637;Rank=1;Identity=0.6686;Frameshift=8;StopCodon=1;Target=8110916at2759_27291_0:000be1 1 174

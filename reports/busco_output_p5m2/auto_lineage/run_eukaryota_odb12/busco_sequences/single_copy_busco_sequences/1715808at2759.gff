@@ -1,0 +1,3 @@
+contig_289	miniprot	mRNA	48841	53870	247	-	.	ID=MP008235;Rank=1;Identity=0.3781;Positive=0.5684;Frameshift=13;StopCodon=1;Target=1715808at2759_3661_0:000c95 1 362
+contig_289	miniprot	CDS	53767	53870	32	-	0	Parent=MP008235;Rank=1;Identity=0.2857;Target=1715808at2759_3661_0:000c95 1 34
+contig_289	miniprot	CDS	48841	49804	215	-	1	Parent=MP008235;Rank=1;Identity=0.3878;Frameshift=13;StopCodon=1;Target=1715808at2759_3661_0:000c95 35 362

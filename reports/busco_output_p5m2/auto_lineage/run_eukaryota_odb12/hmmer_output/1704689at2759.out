@@ -1,0 +1,17 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1704689at2759_1064592_0:000a5a|contig_199:12243-12821|+ -            190 1704689              -            128   1.7e-35  110.3   0.0   1   1   2.7e-35   3.4e-35  109.3   0.0     8   126    65   179    63   181 0.92 <unknown description>
+1704689at2759_27291_0:0014c4|contig_199:12075-12919|+   -            275 1704689              -            128   4.2e-35  109.0   0.0   1   1   7.1e-35   8.9e-35  107.9   0.0     8   126   118   232   116   234 0.92 <unknown description>
+1704689at2759_599839_0:000f3b|contig_199:12328-12786|+  -            152 1704689              -            128   1.8e-30   94.0   0.0   1   1   2.9e-30   3.6e-30   93.0   0.0     8   125    37   151    35   152 0.93 <unknown description>
+1704689at2759_1182545_0:0014b6|contig_199:12441-12786|+ -            115 1704689              -            128   3.5e-30   93.1   0.0   1   1   5.2e-30   6.5e-30   92.2   0.0     9   125     1   114     1   115 0.92 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/1704689at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1704689at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/1704689at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/1704689at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1704689at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:38 2026
+# [ok]

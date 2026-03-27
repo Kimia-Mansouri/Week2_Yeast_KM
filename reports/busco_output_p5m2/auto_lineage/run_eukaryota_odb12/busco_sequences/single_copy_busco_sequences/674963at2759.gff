@@ -1,0 +1,2 @@
+contig_65	miniprot	mRNA	18367	18945	369	+	.	ID=MP010456;Rank=1;Identity=0.5270;Positive=0.6993;Frameshift=5;StopCodon=1;Target=674963at2759_1064592_0:0002c2 4 193
+contig_65	miniprot	CDS	18367	18945	369	+	0	Parent=MP010456;Rank=1;Identity=0.5270;Frameshift=5;StopCodon=1;Target=674963at2759_1064592_0:0002c2 4 193

@@ -1,0 +1,2 @@
+contig_289	miniprot	mRNA	37974	38689	660	-	.	ID=MP010971;Rank=1;Identity=0.7886;Positive=0.8470;Frameshift=12;Target=283883at2759_27291_0:001466 1 231
+contig_289	miniprot	CDS	37974	38689	660	-	0	Parent=MP010971;Rank=1;Identity=0.7886;Frameshift=12;Target=283883at2759_27291_0:001466 1 231

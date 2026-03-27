@@ -1,0 +1,19 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1726137at2759_27291_0:0005c9|contig_296:24698-26164|-   -            478 1726137              -            382  7.8e-122  395.2   4.8   1   1  1.2e-121  1.2e-121  394.6   4.8    27   378    75   444    47   448 0.88 <unknown description>
+1726137at2759_983966_0:001216|contig_296:24784-25927|-  -            373 1726137              -            382  1.5e-114  371.2   7.0   1   1  2.1e-114  2.1e-114  370.7   7.0    33   378     3   367     1   371 0.89 <unknown description>
+1726137at2759_1450537_0:00050d|contig_296:22713-25969|- -            409 1726137              -            382  7.5e-111  359.0   5.2   1   1  1.7e-110  1.7e-110  357.8   5.2    29   373    13   378     2   385 0.85 <unknown description>
+1726137at2759_984486_0:0011d6|contig_296:24736-25674|-  -            307 1726137              -            382   2.2e-84  271.9   4.5   1   1   3.3e-84   3.3e-84  271.3   4.5   116   378     1   285     1   289 0.87 <unknown description>
+1726137at2759_1314678_0:000afa|contig_296:25043-25984|- -            309 1726137              -            382     2e-83  268.8   5.0   1   1   4.8e-83   4.8e-83  267.5   5.0    29   297    18   306     5   309 0.84 <unknown description>
+1726137at2759_51031_0:000abb|contig_296:25422-25915|-   -            162 1726137              -            382   1.2e-45  144.4   1.6   1   1   1.4e-45   1.4e-45  144.2   1.6    35   196     1   162     1   162 0.86 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/1726137at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1726137at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/1726137at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/1726137at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/1726137at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:37 2026
+# [ok]

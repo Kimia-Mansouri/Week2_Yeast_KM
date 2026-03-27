@@ -1,0 +1,586 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+CONTIG	contig_54	8741	unaligned
+CONTIG	contig_231	35873	unaligned
+CONTIG	contig_13	17215	unaligned
+CONTIG	contig_99	27151	unaligned
+CONTIG	contig_101	18310	unaligned
+CONTIG	contig_180	16892	unaligned
+CONTIG	contig_319	6583	unaligned
+CONTIG	contig_126	23468	unaligned
+CONTIG	contig_267	30324	unaligned
+CONTIG	contig_389	10081	unaligned
+CONTIG	contig_119	7029	unaligned
+CONTIG	contig_95	11038	unaligned
+CONTIG	contig_361	19821	unaligned
+CONTIG	contig_379	9297	unaligned
+209456	226686	28	17224	NC_001135.5	contig_17	96.01		True
+CONTIG	contig_17	17224	correct
+CONTIG	contig_402	6192	unaligned
+300055	316841	24220	7593	NC_001134.8	contig_155	95.91		True
+indel: indel (> 5bp)
+297780	300033	26471	24221	NC_001134.8	contig_155	95.3		True
+CONTIG	contig_155	26607	correct
+CONTIG	contig_428	37085	unaligned
+CONTIG	contig_395	14660	unaligned
+CONTIG	contig_350	20915	unaligned
+CONTIG	contig_187	15509	unaligned
+CONTIG	contig_128	7638	unaligned
+CONTIG	contig_348	5181	unaligned
+877730	896180	19096	733	NC_001144.5	contig_51	95.26		True
+indel: indel (> 5bp)
+870950	877705	25826	19097	NC_001144.5	contig_51	95.89		True
+CONTIG	contig_51	25827	correct
+CONTIG	contig_299	27552	unaligned
+CONTIG	contig_157	44404	unaligned
+CONTIG	contig_193	6816	unaligned
+CONTIG	contig_115	7373	unaligned
+CONTIG	contig_172	14985	unaligned
+CONTIG	contig_31	47127	unaligned
+CONTIG	contig_10	28171	unaligned
+CONTIG	contig_292	16582	unaligned
+CONTIG	contig_88	24859	unaligned
+CONTIG	contig_318	5071	unaligned
+207056	210595	10077	6567	NC_001141.2	contig_135	95.0		True
+CONTIG	contig_135	10082	correct_unaligned
+CONTIG	contig_269	7676	unaligned
+96627	96943	32633	32945	NC_001146.8	contig_261	95.58		True
+CONTIG	contig_261	33688	correct_unaligned
+CONTIG	contig_246	19338	unaligned
+CONTIG	contig_113	8332	unaligned
+CONTIG	contig_24	20711	unaligned
+CONTIG	contig_417	21397	unaligned
+CONTIG	contig_206	30645	unaligned
+CONTIG	contig_236	20810	unaligned
+CONTIG	contig_26	27325	unaligned
+CONTIG	contig_257	12026	unaligned
+CONTIG	contig_81	34086	unaligned
+CONTIG	contig_386	33008	unaligned
+CONTIG	contig_352	11403	unaligned
+CONTIG	contig_248	6870	unaligned
+434629	434791	24164	23998	NC_001137.3	contig_162	95.21		True
+CONTIG	contig_162	29179	correct_unaligned
+CONTIG	contig_165	29781	unaligned
+566115	585784	13375	32750	NC_001145.3	contig_154	95.08		True
+CONTIG	contig_154	32764	correct
+CONTIG	contig_190	22385	unaligned
+CONTIG	contig_411	14750	unaligned
+850342	850613	5289	5017	NC_001148.4	contig_188	95.65		True
+unknown
+810563	818556	38577	30724	NC_001148.4	contig_188	95.12		True
+unknown
+CONTIG	contig_188	46154	mis_unaligned
+CONTIG	contig_176	9153	unaligned
+588720	600892	38	12163	NC_001145.3	contig_368	96.26		True
+relocation, inconsistency = 2209
+603102	605792	12164	14833	NC_001145.3	contig_368	95.09		True
+CONTIG	contig_368	16507	misassembled
+CONTIG	contig_160	18668	unaligned
+CONTIG	contig_114	36373	unaligned
+CONTIG	contig_226	8343	unaligned
+313752	319394	92	5622	NC_001139.9	contig_396	95.45		True
+CONTIG	contig_396	8745	correct
+CONTIG	contig_290	16091	unaligned
+CONTIG	contig_194	6543	unaligned
+CONTIG	contig_291	13863	unaligned
+CONTIG	contig_376	11423	unaligned
+CONTIG	contig_178	19566	unaligned
+CONTIG	contig_328	12464	unaligned
+CONTIG	contig_294	10297	unaligned
+400307	402046	14525	12798	NC_001142.9	contig_83	97.13		True
+indel: indel (> 5bp)
+385298	400306	29527	14650	NC_001142.9	contig_83	95.92		True
+CONTIG	contig_83	29542	correct
+CONTIG	contig_307	12736	unaligned
+CONTIG	contig_347	14849	unaligned
+CONTIG	contig_199	24912	unaligned
+CONTIG	contig_420	17061	unaligned
+859208	859921	4173	4898	NC_001139.9	contig_430	95.87		True
+CONTIG	contig_430	12709	correct_unaligned
+CONTIG	contig_169	21809	unaligned
+CONTIG	contig_338	9461	unaligned
+CONTIG	contig_235	11306	unaligned
+CONTIG	contig_412	11725	unaligned
+1042705	1045539	33695	30900	NC_001147.6	contig_110	95.34		True
+CONTIG	contig_110	33701	correct_unaligned
+180157	180851	2597	1907	NC_001133.9	contig_283	95.16		True
+unknown
+166252	179682	16428	3053	NC_001133.9	contig_283	95.23		True
+unknown
+CONTIG	contig_283	30766	mis_unaligned
+CONTIG	contig_189	11517	unaligned
+CONTIG	contig_106	41739	unaligned
+54492	63424	173	8999	NC_001144.5	contig_251	95.91		True
+CONTIG	contig_251	36469	correct_unaligned
+CONTIG	contig_369	17523	unaligned
+CONTIG	contig_415	38833	unaligned
+CONTIG	contig_363	17537	unaligned
+CONTIG	contig_39	42776	unaligned
+CONTIG	contig_385	18797	unaligned
+CONTIG	contig_170	26210	unaligned
+CONTIG	contig_310	12172	unaligned
+451420	461711	25119	14961	NC_001144.5	contig_265	96.97		True
+unknown
+459699	468929	25909	16772	NC_001144.5	contig_265	97.07		True
+unknown
+CONTIG	contig_265	25909	mis_unaligned
+192930	194516	8401	10013	NC_001141.2	contig_342	96.34		True
+CONTIG	contig_342	38398	correct_unaligned
+29207	34936	16868	22494	NC_001139.9	contig_244	95.29		True
+CONTIG	contig_244	22508	correct_unaligned
+CONTIG	contig_64	27793	unaligned
+CONTIG	contig_133	26477	unaligned
+366159	377413	31	11136	NC_001142.9	contig_388	95.04		True
+CONTIG	contig_388	18117	correct
+CONTIG	contig_149	51963	unaligned
+CONTIG	contig_50	22802	unaligned
+CONTIG	contig_311	7709	unaligned
+636388	643257	11666	4885	NC_001134.8	contig_41	95.24		True
+CONTIG	contig_41	11666	correct
+CONTIG	contig_68	67155	unaligned
+551064	560305	35376	44771	NC_001148.4	contig_289	95.36		True
+unknown
+560299	572840	45108	57689	NC_001148.4	contig_289	96.04		True
+unknown
+CONTIG	contig_289	78981	mis_unaligned
+CONTIG	contig_409	6068	unaligned
+211908	234850	38690	61494	NC_001148.4	contig_5	95.34		True
+CONTIG	contig_5	61599	correct_unaligned
+CONTIG	contig_29	45149	unaligned
+CONTIG	contig_60	12165	unaligned
+CONTIG	contig_421	6756	unaligned
+CONTIG	contig_339	9881	unaligned
+CONTIG	contig_70	39699	unaligned
+CONTIG	contig_243	17548	unaligned
+CONTIG	contig_312	13621	unaligned
+CONTIG	contig_404	9096	unaligned
+CONTIG	contig_309	8667	unaligned
+221047	221363	13513	13203	NC_001134.8	contig_46	96.87		True
+unknown
+196649	197024	13907	13527	NC_001141.2	contig_46	95.54		True
+unknown
+CONTIG	contig_46	31346	mis_unaligned
+CONTIG	contig_435	38122	unaligned
+CONTIG	contig_301	13590	unaligned
+CONTIG	contig_85	20835	unaligned
+CONTIG	contig_295	15611	unaligned
+CONTIG	contig_240	6007	unaligned
+28	1716	269	1919	NC_001146.8	contig_14	95.15		True
+unknown
+701784	710394	45341	36805	NC_001142.9	contig_14	95.61		True
+unknown
+CONTIG	contig_14	49196	mis_unaligned
+768905	777054	8047	42	NC_001145.3	contig_277	95.47		True
+CONTIG	contig_277	12707	correct
+CONTIG	contig_262	13378	unaligned
+CONTIG	contig_215	9732	unaligned
+CONTIG	contig_66	35865	unaligned
+CONTIG	contig_241	35092	unaligned
+CONTIG	contig_34	37185	unaligned
+CONTIG	contig_271	33838	unaligned
+159035	165180	19815	25956	NC_001139.9	contig_30	96.89		True
+CONTIG	contig_30	31397	correct_unaligned
+135940	138388	9010	11428	NC_001137.3	contig_284	95.92		True
+CONTIG	contig_284	18684	correct_unaligned
+CONTIG	contig_400	5670	unaligned
+1048427	1062108	12981	26434	NC_001139.9	contig_247	95.61		True
+CONTIG	contig_247	26441	correct
+CONTIG	contig_102	12977	unaligned
+CONTIG	contig_210	25879	unaligned
+CONTIG	contig_141	28566	unaligned
+15020	23164	696	8830	NC_001137.3	contig_364	95.73		True
+CONTIG	contig_364	23003	correct_unaligned
+CONTIG	contig_317	13548	unaligned
+45150	53361	35494	27391	NC_001137.3	contig_134	95.62		True
+CONTIG	contig_134	35496	correct_unaligned
+CONTIG	contig_37	25400	unaligned
+CONTIG	contig_121	20047	unaligned
+CONTIG	contig_111	34670	unaligned
+CONTIG	contig_434	18438	unaligned
+CONTIG	contig_120	23790	unaligned
+CONTIG	contig_221	11529	unaligned
+CONTIG	contig_288	8832	unaligned
+236095	243656	174	7658	NC_001137.3	contig_52	95.81		True
+CONTIG	contig_52	18532	correct_unaligned
+508971	510485	276	1770	NC_001144.5	contig_222	95.97		True
+unknown
+510538	511506	1771	2741	NC_001144.5	contig_222	95.98		True
+unknown
+CONTIG	contig_222	13998	mis_unaligned
+CONTIG	contig_159	9524	unaligned
+264085	274094	25	9895	NC_001145.3	contig_143	95.14		True
+CONTIG	contig_143	48430	correct_unaligned
+CONTIG	contig_401	15671	unaligned
+CONTIG	contig_90	9104	unaligned
+CONTIG	contig_209	30044	unaligned
+CONTIG	contig_331	47422	unaligned
+CONTIG	contig_122	26918	unaligned
+452658	461877	26972	17728	NC_001137.3	contig_296	96.51		True
+CONTIG	contig_296	26972	correct_unaligned
+61065	64241	46541	43366	NC_001143.9	contig_2	95.15		True
+CONTIG	contig_2	46541	correct_unaligned
+CONTIG	contig_323	6645	unaligned
+CONTIG	contig_273	12420	unaligned
+116617	124933	17282	9062	NC_001133.9	contig_72	95.31		True
+CONTIG	contig_72	30803	correct_unaligned
+CONTIG	contig_341	8729	unaligned
+385209	404921	19885	458	NC_001147.6	contig_48	95.59		True
+CONTIG	contig_48	35788	correct
+CONTIG	contig_232	23293	unaligned
+CONTIG	contig_9	40763	unaligned
+CONTIG	contig_408	8955	unaligned
+83445	84452	2744	3762	NC_001140.6	contig_16	96.17		True
+CONTIG	contig_16	30528	correct_unaligned
+CONTIG	contig_313	21353	unaligned
+CONTIG	contig_387	6516	unaligned
+222758	223124	7070	6690	NC_001133.9	contig_320	95.01		True
+unknown
+29716	30971	7606	8877	NC_001147.6	contig_320	95.6		True
+unknown
+CONTIG	contig_320	13807	mis_unaligned
+CONTIG	contig_84	8906	unaligned
+CONTIG	contig_274	6947	unaligned
+CONTIG	contig_167	22162	unaligned
+CONTIG	contig_144	27484	unaligned
+CONTIG	contig_228	7704	unaligned
+CONTIG	contig_281	20254	unaligned
+378076	397833	30086	10409	NC_001139.9	contig_35	95.78		True
+CONTIG	contig_35	54508	correct_unaligned
+CONTIG	contig_145	15764	unaligned
+CONTIG	contig_358	6822	unaligned
+523346	527595	9279	13549	NC_001136.10	contig_357	95.74		True
+CONTIG	contig_357	21477	correct_unaligned
+CONTIG	contig_28	44484	unaligned
+CONTIG	contig_410	5492	unaligned
+CONTIG	contig_306	20616	unaligned
+CONTIG	contig_429	48251	unaligned
+1084635	1089500	22698	27541	NC_001147.6	contig_334	96.63		True
+unknown
+1089501	1089748	27613	27861	NC_001147.6	contig_334	95.58		True
+unknown
+CONTIG	contig_334	27861	mis_unaligned
+CONTIG	contig_278	10561	unaligned
+CONTIG	contig_239	12421	unaligned
+CONTIG	contig_148	31070	unaligned
+CONTIG	contig_67	20002	unaligned
+CONTIG	contig_266	14997	unaligned
+CONTIG	contig_234	21637	unaligned
+CONTIG	contig_330	17935	unaligned
+237083	260809	4318	28055	NC_001135.5	contig_76	95.3		True
+CONTIG	contig_76	35128	correct
+1031403	1038816	30466	37764	NC_001144.5	contig_419	95.89		True
+CONTIG	contig_419	37779	correct_unaligned
+CONTIG	contig_403	14219	unaligned
+218618	223124	9642	5163	NC_001133.9	contig_371	97.16		True
+CONTIG	contig_371	40990	correct_unaligned
+CONTIG	contig_208	9532	unaligned
+CONTIG	contig_23	49488	unaligned
+CONTIG	contig_304	19507	unaligned
+CONTIG	contig_345	11927	unaligned
+CONTIG	contig_79	20609	unaligned
+CONTIG	contig_230	8075	unaligned
+CONTIG	contig_393	69772	unaligned
+CONTIG	contig_171	21035	unaligned
+CONTIG	contig_196	27115	unaligned
+CONTIG	contig_94	11902	unaligned
+CONTIG	contig_383	5685	unaligned
+CONTIG	contig_197	10491	unaligned
+CONTIG	contig_137	20560	unaligned
+CONTIG	contig_336	8825	unaligned
+138597	149148	73796	63413	NC_001136.10	contig_423	95.19		True
+CONTIG	contig_423	73810	correct_unaligned
+CONTIG	contig_125	26006	unaligned
+CONTIG	contig_74	51893	unaligned
+CONTIG	contig_392	5654	unaligned
+133024	137654	28889	24300	NC_001134.8	contig_7	96.42		True
+unknown
+120757	133023	41038	28913	NC_001134.8	contig_7	95.04		True
+unknown
+CONTIG	contig_7	41038	mis_unaligned
+CONTIG	contig_205	7596	unaligned
+CONTIG	contig_57	14453	unaligned
+CONTIG	contig_71	31338	unaligned
+CONTIG	contig_204	25007	unaligned
+463142	463583	1185	743	NC_001144.5	contig_174	99.32		True
+CONTIG	contig_174	1196	correct_unaligned
+45162	48859	8060	4446	NC_001144.5	contig_374	95.32		True
+CONTIG	contig_374	8060	correct_unaligned
+252783	272329	19450	105	NC_001141.2	contig_40	95.02		True
+CONTIG	contig_40	19489	correct
+CONTIG	contig_43	8184	unaligned
+CONTIG	contig_424	25409	unaligned
+CONTIG	contig_62	30366	unaligned
+CONTIG	contig_212	19519	unaligned
+CONTIG	contig_427	22252	unaligned
+CONTIG	contig_32	25671	unaligned
+799205	808536	26	9237	NC_001145.3	contig_166	95.14		True
+CONTIG	contig_166	35147	correct_unaligned
+CONTIG	contig_258	11121	unaligned
+CONTIG	contig_200	15785	unaligned
+CONTIG	contig_58	26026	unaligned
+CONTIG	contig_253	13459	unaligned
+457372	463595	6141	1	NC_001144.5	contig_173	95.09		True
+CONTIG	contig_173	6141	correct
+285750	289295	13	3517	NC_001140.6	contig_343	95.32		True
+CONTIG	contig_343	11850	correct_unaligned
+CONTIG	contig_130	8766	unaligned
+367059	378122	84	11124	NC_001140.6	contig_78	95.84		True
+CONTIG	contig_78	14656	correct
+CONTIG	contig_324	16440	unaligned
+CONTIG	contig_117	27786	unaligned
+CONTIG	contig_27	29267	unaligned
+296135	308190	326	12202	NC_001147.6	contig_390	95.1		True
+CONTIG	contig_390	12202	correct
+CONTIG	contig_397	5891	unaligned
+CONTIG	contig_12	24299	unaligned
+477712	487266	327	9751	NC_001148.4	contig_218	95.26		True
+CONTIG	contig_218	9793	correct
+CONTIG	contig_216	24176	unaligned
+CONTIG	contig_298	9222	unaligned
+CONTIG	contig_245	24471	unaligned
+1070778	1080943	2871	12972	NC_001136.10	contig_123	95.17		True
+CONTIG	contig_123	15905	correct
+CONTIG	contig_3	15421	unaligned
+CONTIG	contig_53	11648	unaligned
+499468	517392	17794	124	NC_001142.9	contig_332	95.14		True
+CONTIG	contig_332	17794	correct
+CONTIG	contig_4	33838	unaligned
+CONTIG	contig_326	10810	unaligned
+CONTIG	contig_59	39741	unaligned
+CONTIG	contig_335	4056	unaligned
+679389	684889	49	5529	NC_001145.3	contig_375	95.22		True
+CONTIG	contig_375	5529	correct
+340394	340677	13512	13232	NC_001143.9	contig_263	95.07		True
+CONTIG	contig_263	13513	correct_unaligned
+CONTIG	contig_201	25102	unaligned
+CONTIG	contig_127	22397	unaligned
+CONTIG	contig_198	38279	unaligned
+CONTIG	contig_329	7771	unaligned
+CONTIG	contig_56	18781	unaligned
+45763	53663	7990	205	NC_001146.8	contig_142	95.36		True
+CONTIG	contig_142	8320	correct
+CONTIG	contig_286	7612	unaligned
+CONTIG	contig_359	16072	unaligned
+CONTIG	contig_80	24770	unaligned
+CONTIG	contig_355	13460	unaligned
+894152	908991	14850	73	NC_001148.4	contig_416	96.09		True
+CONTIG	contig_416	14858	correct
+CONTIG	contig_305	24533	unaligned
+CONTIG	contig_297	17235	unaligned
+CONTIG	contig_109	45931	unaligned
+CONTIG	contig_104	48301	unaligned
+CONTIG	contig_362	6719	unaligned
+CONTIG	contig_49	20898	unaligned
+CONTIG	contig_192	30546	unaligned
+CONTIG	contig_163	25247	unaligned
+CONTIG	contig_158	19560	unaligned
+981732	990195	8565	146	NC_001144.5	contig_146	95.19		True
+CONTIG	contig_146	26591	correct_unaligned
+342275	357990	57	15667	NC_001140.6	contig_285	95.07		True
+CONTIG	contig_285	16474	correct
+CONTIG	contig_431	11224	unaligned
+CONTIG	contig_6	17068	unaligned
+CONTIG	contig_136	44549	unaligned
+CONTIG	contig_314	25989	unaligned
+CONTIG	contig_349	27609	unaligned
+CONTIG	contig_340	10547	unaligned
+CONTIG	contig_147	24890	unaligned
+CONTIG	contig_250	23263	unaligned
+90720	117672	50	26736	NC_001136.10	contig_93	95.04		True
+CONTIG	contig_93	34567	correct
+CONTIG	contig_153	16915	unaligned
+41279	43102	12521	10714	NC_001134.8	contig_138	95.45		True
+unknown
+36223	41278	17552	12562	NC_001134.8	contig_138	95.71		True
+unknown
+CONTIG	contig_138	26428	mis_unaligned
+43898	92416	24	48459	NC_001138.5	contig_15	95.61		True
+CONTIG	contig_15	79455	correct
+409617	410741	11398	12497	NC_001141.2	contig_225	95.05		True
+unknown
+409617	425239	12498	28013	NC_001141.2	contig_225	95.99		True
+unknown
+CONTIG	contig_225	36338	mis_unaligned
+CONTIG	contig_353	8975	unaligned
+CONTIG	contig_69	43491	unaligned
+CONTIG	contig_380	6151	unaligned
+CONTIG	contig_92	9963	unaligned
+CONTIG	contig_150	21978	unaligned
+83037	118825	37629	2238	NC_001134.8	contig_11	95.8		True
+CONTIG	contig_11	37629	correct
+CONTIG	contig_203	19771	unaligned
+CONTIG	contig_18	55622	unaligned
+CONTIG	contig_406	24144	unaligned
+CONTIG	contig_275	10225	unaligned
+CONTIG	contig_418	9824	unaligned
+CONTIG	contig_303	39028	unaligned
+987909	989958	37625	39650	NC_001139.9	contig_47	95.76		True
+CONTIG	contig_47	65345	correct_unaligned
+CONTIG	contig_268	6288	unaligned
+CONTIG	contig_227	10839	unaligned
+CONTIG	contig_156	34205	unaligned
+CONTIG	contig_280	10902	unaligned
+436574	456076	25397	6175	NC_001142.9	contig_55	95.31		True
+local misassembly
+427654	433177	34749	29303	NC_001142.9	contig_55	95.4		True
+CONTIG	contig_55	34751	correct
+CONTIG	contig_129	54408	unaligned
+620904	632047	55	11087	NC_001146.8	contig_214	95.39		True
+CONTIG	contig_214	11830	correct
+CONTIG	contig_407	8558	unaligned
+CONTIG	contig_398	12988	unaligned
+CONTIG	contig_367	20028	unaligned
+CONTIG	contig_302	3845	unaligned
+CONTIG	contig_252	12358	unaligned
+CONTIG	contig_259	21576	unaligned
+CONTIG	contig_346	24068	unaligned
+CONTIG	contig_44	20623	unaligned
+CONTIG	contig_413	8528	unaligned
+CONTIG	contig_86	37811	unaligned
+CONTIG	contig_391	11976	unaligned
+CONTIG	contig_116	19319	unaligned
+CONTIG	contig_325	14016	unaligned
+CONTIG	contig_63	24214	unaligned
+CONTIG	contig_96	10742	unaligned
+CONTIG	contig_315	15711	unaligned
+CONTIG	contig_195	31337	unaligned
+CONTIG	contig_321	15329	unaligned
+142807	149744	28715	35573	NC_001135.5	contig_21	96.31		True
+CONTIG	contig_21	42057	correct_unaligned
+CONTIG	contig_360	22464	unaligned
+CONTIG	contig_399	9696	unaligned
+CONTIG	contig_87	41919	unaligned
+CONTIG	contig_224	21631	unaligned
+CONTIG	contig_181	21479	unaligned
+CONTIG	contig_229	10229	unaligned
+CONTIG	contig_108	26976	unaligned
+CONTIG	contig_132	7991	unaligned
+169080	169185	7382	7482	NC_001135.5	contig_372	95.28		True
+CONTIG	contig_372	13874	correct_unaligned
+CONTIG	contig_207	23103	unaligned
+CONTIG	contig_185	11407	unaligned
+CONTIG	contig_151	26620	unaligned
+CONTIG	contig_373	5909	unaligned
+1163735	1175647	982	12903	NC_001136.10	contig_61	96.38		True
+CONTIG	contig_61	22704	correct
+7531	15497	8307	16243	NC_001148.4	contig_75	95.12		True
+unknown
+917303	917707	25643	25252	NC_001145.3	contig_75	95.06		True
+unknown
+908686	910328	34440	32824	NC_001145.3	contig_75	96.47		True
+unknown
+908348	908436	34530	34441	NC_001145.3	contig_75	97.78		True
+unknown
+CONTIG	contig_75	37290	mis_unaligned
+CONTIG	contig_91	23675	unaligned
+CONTIG	contig_77	28586	unaligned
+362594	362882	13177	13462	NC_001145.3	contig_217	95.16		True
+CONTIG	contig_217	19743	correct_unaligned
+CONTIG	contig_272	26955	unaligned
+CONTIG	contig_378	28556	unaligned
+903633	914291	484	11024	NC_001139.9	contig_432	95.19		True
+CONTIG	contig_432	12498	correct
+CONTIG	contig_327	4456	unaligned
+CONTIG	contig_405	17854	unaligned
+CONTIG	contig_8	24361	unaligned
+CONTIG	contig_354	10151	unaligned
+CONTIG	contig_183	13769	unaligned
+CONTIG	contig_293	10450	unaligned
+CONTIG	contig_98	21171	unaligned
+CONTIG	contig_36	38005	unaligned
+CONTIG	contig_223	22325	unaligned
+CONTIG	contig_161	15017	unaligned
+216176	222618	32979	39299	NC_001147.6	contig_237	96.01		True
+CONTIG	contig_237	39307	correct_unaligned
+CONTIG	contig_255	21803	unaligned
+CONTIG	contig_140	9116	unaligned
+CONTIG	contig_414	15321	unaligned
+170699	193835	22988	40	NC_001138.5	contig_219	95.38		True
+CONTIG	contig_219	22988	correct
+741176	756976	22	15617	NC_001145.3	contig_270	95.73		True
+CONTIG	contig_270	20802	correct
+CONTIG	contig_337	53586	unaligned
+805525	811882	6332	51	NC_001136.10	contig_249	95.52		True
+CONTIG	contig_249	9534	correct
+CONTIG	contig_238	13080	unaligned
+CONTIG	contig_65	21998	unaligned
+665145	667555	2652	5045	NC_001147.6	contig_186	95.73		True
+CONTIG	contig_186	10420	correct_unaligned
+CONTIG	contig_33	22368	unaligned
+CONTIG	contig_422	26178	unaligned
+CONTIG	contig_365	7392	unaligned
+CONTIG	contig_89	16969	unaligned
+CONTIG	contig_179	8869	unaligned
+CONTIG	contig_356	13881	unaligned
+712208	712542	19713	20049	NC_001139.9	contig_20	95.55		True
+CONTIG	contig_20	69275	correct_unaligned
+CONTIG	contig_131	15106	unaligned
+CONTIG	contig_118	21625	unaligned
+CONTIG	contig_105	28080	unaligned
+CONTIG	contig_351	7176	unaligned
+CONTIG	contig_177	13607	unaligned
+CONTIG	contig_164	5815	unaligned
+CONTIG	contig_97	11642	unaligned
+CONTIG	contig_202	25047	unaligned
+103623	112119	13226	4719	NC_001144.5	contig_316	95.22		True
+CONTIG	contig_316	25157	correct_unaligned
+144487	160233	15664	86	NC_001133.9	contig_103	95.33		True
+CONTIG	contig_103	22113	correct
+CONTIG	contig_100	38650	unaligned
+CONTIG	contig_152	18789	unaligned
+143262	144116	13	861	NC_001141.2	contig_191	95.44		True
+indel: indel (> 5bp)
+144138	174931	862	31438	NC_001141.2	contig_191	95.04		True
+CONTIG	contig_191	37158	correct
+CONTIG	contig_381	7948	unaligned
+CONTIG	contig_38	10374	unaligned
+CONTIG	contig_1	21548	unaligned
+CONTIG	contig_426	17268	unaligned
+CONTIG	contig_282	11289	unaligned
+CONTIG	contig_42	23179	unaligned
+CONTIG	contig_213	13782	unaligned
+CONTIG	contig_344	12258	unaligned
+667340	681790	14340	25	NC_001146.8	contig_107	96.18		True
+CONTIG	contig_107	22378	correct
+CONTIG	contig_433	58291	unaligned
+CONTIG	contig_300	10716	unaligned
+723651	731068	34	7270	NC_001144.5	contig_139	95.48		True
+CONTIG	contig_139	7270	correct
+CONTIG	contig_425	21157	unaligned
+CONTIG	contig_233	13627	unaligned
+393729	397603	4360	574	NC_001144.5	contig_45	95.85		True
+CONTIG	contig_45	4416	correct
+CONTIG	contig_254	24534	unaligned
+CONTIG	contig_276	11419	unaligned
+CONTIG	contig_264	14654	unaligned
+447897	476152	8562	36641	NC_001148.4	contig_112	95.12		True
+CONTIG	contig_112	37225	correct
+CONTIG	contig_287	16353	unaligned
+CONTIG	contig_19	21297	unaligned
+CONTIG	contig_82	11570	unaligned
+CONTIG	contig_377	10670	unaligned
+CONTIG	contig_220	16942	unaligned
+CONTIG	contig_260	22389	unaligned
+CONTIG	contig_211	15923	unaligned
+CONTIG	contig_333	8948	unaligned
+37237	39178	3735	1811	NC_001141.2	contig_182	96.48		True
+CONTIG	contig_182	3750	correct
+CONTIG	contig_382	36153	unaligned
+CONTIG	contig_308	18168	unaligned
+817399	823306	137	6052	NC_001139.9	contig_322	95.47		True
+CONTIG	contig_322	25652	correct_unaligned
+CONTIG	contig_279	12422	unaligned
+CONTIG	contig_394	10841	unaligned
+CONTIG	contig_366	6439	unaligned
+CONTIG	contig_168	11003	unaligned
+238501	245160	79	6680	NC_001144.5	contig_370	95.6		True
+CONTIG	contig_370	6680	correct
+CONTIG	contig_242	6324	unaligned
+CONTIG	contig_25	12378	unaligned
+CONTIG	contig_124	16412	unaligned
+CONTIG	contig_384	10871	unaligned
+CONTIG	contig_184	15683	unaligned
+467813	468343	522	1	NC_001144.5	contig_175	95.86		True
+unknown
+467649	467812	730	567	NC_001144.5	contig_175	96.95		True
+unknown
+CONTIG	contig_175	14426	mis_unaligned
