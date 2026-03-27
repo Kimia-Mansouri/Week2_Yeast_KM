@@ -1,0 +1,2 @@
+contig_261	miniprot	mRNA	19134	20082	656	+	.	ID=MP009077;Rank=1;Identity=0.6720;Positive=0.7508;Frameshift=14;StopCodon=2;Target=4249at2759_27291_0:0004cb 1 329
+contig_261	miniprot	CDS	19134	20082	656	+	0	Parent=MP009077;Rank=1;Identity=0.6720;Frameshift=14;StopCodon=2;Target=4249at2759_27291_0:0004cb 1 329

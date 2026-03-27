@@ -1,0 +1,27 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+437331at2759_27291_0:0012ed|contig_151:2904-4786|-   -            618 437331               -            513  2.9e-168  549.7   0.3   1   1  1.3e-165  1.3e-165  540.9   0.3     4   505    57   609    54   615 0.86 <unknown description>
+437331at2759_559305_0:001eee|contig_151:2904-4355|-  -            478 437331               -            513  3.3e-160  523.1   0.2   1   2  4.1e-103  4.1e-103  334.7   1.5    92   346    21   276    14   288 0.93 <unknown description>
+437331at2759_559305_0:001eee|contig_151:2904-4355|-  -            478 437331               -            513  3.3e-160  523.1   0.2   2   2   5.9e-58   5.9e-58  185.7   0.0   334   505   285   469   276   475 0.88 <unknown description>
+437331at2759_1314678_0:0016dd|contig_151:3271-4599|- -            438 437331               -            513  5.4e-123  400.3   0.2   1   2  3.6e-111  3.6e-111  361.3   0.4     9   346     1   356     1   365 0.88 <unknown description>
+437331at2759_1314678_0:0016dd|contig_151:3271-4599|- -            438 437331               -            513  5.4e-123  400.3   0.2   2   2   7.6e-13   7.6e-13   36.9   0.0   334   395   365   427   357   438 0.80 <unknown description>
+437331at2759_1415580_0:000c0e|contig_151:2928-3974|- -            346 437331               -            513  6.4e-115  373.7   0.1   1   2     9e-61     9e-61  195.0   0.8   198   342     1   147     1   159 0.93 <unknown description>
+437331at2759_1415580_0:000c0e|contig_151:2928-3974|- -            346 437331               -            513  6.4e-115  373.7   0.1   2   2     4e-55     4e-55  176.4   0.0   334   505   160   345   152   346 0.86 <unknown description>
+437331at2759_7653_0:001faa|contig_151:3554-4599|-    -            344 437331               -            513  3.6e-110  358.0   1.5   1   1    7e-110    7e-110  357.1   1.5     9   334     1   343     1   344 0.88 <unknown description>
+437331at2759_259920_0:004b78|contig_151:2928-3684|-  -            226 437331               -            513   1.8e-71  230.3   0.0   1   1     2e-71     2e-71  230.2   0.0   295   505     4   225     1   226 0.87 <unknown description>
+437331at2759_2530218_0:002f3b|contig_151:3802-4590|- -            224 437331               -            513   6.7e-61  195.5   1.9   1   2   1.4e-10   1.4e-10   29.4   0.0    12    73     1    61     1    97 0.76 <unknown description>
+437331at2759_2530218_0:002f3b|contig_151:3802-4590|- -            224 437331               -            513   6.7e-61  195.5   1.9   2   2   7.3e-52   7.3e-52  165.6   0.8   130   253    98   224    89   224 0.91 <unknown description>
+437331at2759_94827_0:0015fa|contig_151:2928-3499|-   -            189 437331               -            513   1.2e-55  178.2   0.0   1   1   1.3e-55   1.3e-55  178.0   0.0   336   505     5   188     2   189 0.87 <unknown description>
+437331at2759_145388_0:0037ad|contig_151:3542-3868|-  -            109 437331               -            513   4.8e-49  156.3   0.0   1   1   6.2e-49   6.2e-49  156.0   0.0   234   335     4   105     2   107 0.98 <unknown description>
+437331at2759_8208_0:004bfd|contig_151:3289-3684|-    -            131 437331               -            513   1.9e-26   81.8   0.2   1   1   1.6e-24   1.6e-24   75.5   0.2   294   394     3   125     1   130 0.70 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/437331at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/437331at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/437331at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/437331at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/437331at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:39 2026
+# [ok]

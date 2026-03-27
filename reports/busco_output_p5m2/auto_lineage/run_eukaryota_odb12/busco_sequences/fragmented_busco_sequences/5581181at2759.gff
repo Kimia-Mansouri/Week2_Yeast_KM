@@ -1,0 +1,2 @@
+contig_45	miniprot	mRNA	566	2383	1994	+	.	ID=MP002104;Rank=1;Identity=0.7609;Positive=0.8322;Frameshift=17;Target=5581181at2759_27291_0:000d50 237 852
+contig_45	miniprot	CDS	566	2383	1994	+	0	Parent=MP002104;Rank=1;Identity=0.7609;Frameshift=17;Target=5581181at2759_27291_0:000d50 237 852

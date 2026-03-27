@@ -1,0 +1,3 @@
+contig_65	miniprot	mRNA	11837	12589	719	-	.	ID=MP010845;Rank=1;Identity=0.8211;Positive=0.8645;Frameshift=14;Target=29058at2759_27291_0:000ca3 1 250
+contig_65	miniprot	CDS	11837	12589	719	-	0	Parent=MP010845;Rank=1;Identity=0.8211;Frameshift=14;Target=29058at2759_27291_0:000ca3 1 250
+contig_65	miniprot	stop_codon	11837	11839	0	-	0	Parent=MP010845;Rank=1

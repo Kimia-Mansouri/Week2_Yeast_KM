@@ -1,0 +1,14 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_366:3528-3761|- -             78 9811714              -             75      0.02   14.4   0.0   1   1   2.5e-06     0.032   13.7   0.0    30    50     4    24     1    26 0.91 contig_366_7 # 3528 # 3761 # -1 # ID=424_7;partial=00;start_type=TTG;rbs_motif=GGGGA;rbs_spacer=13bp;gc_cont=0.342
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/bacteria_odb12/hmms/9811714at2.hmm
+# Target file:     reports/busco_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_bacteria_odb12/hmmer_output/9811714at2.out --cpu 1 /data/busco_downloads/lineages/bacteria_odb12/hmms/9811714at2.hmm reports/busco_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:04:20 2026
+# [ok]

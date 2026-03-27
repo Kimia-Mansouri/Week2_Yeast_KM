@@ -1,0 +1,2 @@
+contig_410	miniprot	mRNA	39	448	431	+	.	ID=MP006551;Rank=1;Identity=0.7624;Positive=0.7835;Frameshift=6;Target=284275at2759_226126_0:000eb9 313 453
+contig_410	miniprot	CDS	39	448	431	+	0	Parent=MP006551;Rank=1;Identity=0.7624;Frameshift=6;Target=284275at2759_226126_0:000eb9 313 453

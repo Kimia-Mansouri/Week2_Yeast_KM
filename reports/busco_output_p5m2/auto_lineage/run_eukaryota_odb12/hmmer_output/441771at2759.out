@@ -1,0 +1,24 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+441771at2759_27291_0:0002da|contig_423:22735-25130|+   -            788 441771               -            567   2.1e-92  299.2  65.3   1   4       1.3       2.3   -4.6   2.9    22   516    30    43    10    62 0.49 <unknown description>
+441771at2759_27291_0:0002da|contig_423:22735-25130|+   -            788 441771               -            567   2.1e-92  299.2  65.3   2   4   3.7e-41   6.5e-41  129.2  30.4    21   232    80   313    77   331 0.81 <unknown description>
+441771at2759_27291_0:0002da|contig_423:22735-25130|+   -            788 441771               -            567   2.1e-92  299.2  65.3   3   4   9.3e-34   1.6e-33  104.8   4.2   231   418   355   566   347   573 0.85 <unknown description>
+441771at2759_27291_0:0002da|contig_423:22735-25130|+   -            788 441771               -            567   2.1e-92  299.2  65.3   4   4   5.2e-28     9e-28   85.9   4.1   425   567   638   781   603   781 0.85 <unknown description>
+441771at2759_1295533_0:000cf6|contig_423:22735-30473|+ -            792 441771               -            567   2.2e-88  286.0  65.7   1   4       2.2       3.9   -5.4   4.9   495   522    24    50     7    65 0.65 <unknown description>
+441771at2759_1295533_0:000cf6|contig_423:22735-30473|+ -            792 441771               -            567   2.2e-88  286.0  65.7   2   4   1.3e-42   2.2e-42  134.1  30.6    21   232    81   314    77   332 0.82 <unknown description>
+441771at2759_1295533_0:000cf6|contig_423:22735-30473|+ -            792 441771               -            567   2.2e-88  286.0  65.7   3   4   1.4e-28   2.4e-28   87.8   1.6   255   418   383   569   376   576 0.82 <unknown description>
+441771at2759_1295533_0:000cf6|contig_423:22735-30473|+ -            792 441771               -            567   2.2e-88  286.0  65.7   4   4   3.9e-27   6.8e-27   83.0   5.2   428   565   644   782   615   784 0.86 <unknown description>
+441771at2759_58627_0:000aed|contig_423:22735-24413|+   -            557 441771               -            567   1.9e-65  210.3  37.7   1   2   3.9e-42   6.8e-42  132.5  28.3    24   232    84   315    79   333 0.82 <unknown description>
+441771at2759_58627_0:000aed|contig_423:22735-24413|+   -            557 441771               -            567   1.9e-65  210.3  37.7   2   2   6.8e-26   1.2e-25   78.8   1.8   255   405   384   557   378   557 0.81 <unknown description>
+441771at2759_58627_0:000ae1|contig_423:24788-25127|+   -            112 441771               -            567     9e-25   75.9  10.4   1   1   5.7e-25   9.9e-25   75.8  10.4   469   567     3   106     1   106 0.94 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/441771at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/441771at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/441771at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/441771at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/441771at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:39 2026
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+273340at2759_226126_0:00075f|contig_163:20-1442|- -            463 273340               -            381   1.1e-67  216.9   0.0   1   1   2.4e-67   3.6e-67  215.2   0.0     3   358    43   416    41   428 0.81 <unknown description>
+273340at2759_9417_0:001cf4|contig_163:252-1308|-  -            348 273340               -            381   5.1e-57  181.8   0.0   1   1     2e-56     3e-56  179.3   0.0     4   329     1   347     1   348 0.79 <unknown description>
+273340at2759_41139_0:001159|contig_163:208-2317|- -            413 273340               -            381   1.3e-56  180.5   0.0   1   1   4.7e-56   7.1e-56  178.0   0.0     3   343    51   412    49   413 0.79 <unknown description>
+273340at2759_146911_0:0042b6|contig_163:20-543|-  -            173 273340               -            381   1.1e-19   58.9   0.0   1   1   7.8e-20   1.2e-19   58.8   0.0   271   374    37   142     1   147 0.81 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/273340at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/273340at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/273340at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/273340at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/273340at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:38 2026
+# [ok]

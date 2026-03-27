@@ -1,0 +1,2 @@
+contig_55	miniprot	mRNA	11565	12978	1415	-	.	ID=MP005804;Rank=1;Identity=0.7848;Positive=0.8325;Frameshift=21;StopCodon=2;Target=3763at2759_27291_0:000bb3 1 478
+contig_55	miniprot	CDS	11565	12978	1415	-	0	Parent=MP005804;Rank=1;Identity=0.7848;Frameshift=21;StopCodon=2;Target=3763at2759_27291_0:000bb3 1 478

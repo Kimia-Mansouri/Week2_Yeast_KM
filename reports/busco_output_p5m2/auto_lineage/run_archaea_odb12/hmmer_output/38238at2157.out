@@ -1,0 +1,15 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig_55:7908-8120|+   -             71 38238                -            348   0.00099   16.8   0.1   1   1   2.9e-07    0.0011   16.7   0.1   130   179     3    52     1    57 0.90 contig_55_8 # 7908 # 8120 # 1 # ID=307_8;partial=00;start_type=ATG;rbs_motif=ATC;rbs_spacer=13bp;gc_cont=0.469
+contig_12:16173-16550|- -            126 38238                -            348     0.054   11.1   0.1   1   1   1.7e-05     0.066   10.8   0.1   265   325    12    74     4    85 0.78 contig_12_16 # 16173 # 16550 # -1 # ID=240_16;partial=00;start_type=ATG;rbs_motif=ATC;rbs_spacer=15bp;gc_cont=0.442
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/archaea_odb12/hmms/38238at2157.hmm
+# Target file:     reports/busco_output/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_archaea_odb12/hmmer_output/38238at2157.out --cpu 1 /data/busco_downloads/lineages/archaea_odb12/hmms/38238at2157.hmm reports/busco_output/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:03:29 2026
+# [ok]

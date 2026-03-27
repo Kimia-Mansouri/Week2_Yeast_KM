@@ -1,0 +1,16 @@
+#                                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+284275at2759_226126_0:000eb9|contig_410:38-448|+  -            134 284275               -            374     6e-36  111.5  19.3   1   1   1.1e-35   1.1e-35  110.6  19.3   247   369     6   133     3   134 0.90 <unknown description>
+284275at2759_322104_0:000911|contig_410:122-451|+ -            109 284275               -            374   2.4e-29   89.7  14.3   1   1   3.7e-29   3.7e-29   89.1  14.3   271   370     1   108     1   109 0.89 <unknown description>
+284275at2759_510951_0:0012f5|contig_410:56-313|+  -             86 284275               -            374   7.3e-28   84.9  10.5   1   1   7.9e-28   7.9e-28   84.8  10.5   248   335     1    85     1    86 0.97 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/284275at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/284275at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/284275at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/284275at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/284275at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:38 2026
+# [ok]

@@ -1,0 +1,102 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /data/busco_downloads/lineages/eukaryota_odb12/hmms/6022at2759.hmm
+# target sequence database:        reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/6022at2759.faa
+# per-dom hits tabular output:     reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/6022at2759.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       6022  [M=172]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (172 nodes)
+Target sequences:                          1  (35 residues searched)
+Passed MSV filter:                         0  (0); expected 0.0 (0.02)
+Passed bias filter:                        0  (0); expected 0.0 (0.02)
+Passed Vit filter:                         0  (0); expected 0.0 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                  1  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 1.15
+//
+[ok]
+                           4249  11 eeeekeklyeghiplsplqkall.vgsavaalldprradmvaalGettgelalkrlrdk 68 
+                                                         ++++++++y+gh+  +  +k+ll ++   +++ +p+++     lGe+t+ +++++l+++
+  4249at2759_27291_0:0004cb|contig_261:19133-20082|+  71 NTRSMSPRYNGHV-PHRYEKLLLvCNFRWNSFSHPEDGYNMWGLGEATALPVFENLKQQ 128
+                                                         56778999*****.5699*****9*********************************99 PP
+
+                                                4249  69 mlsdpeGrrILkerPrinsktvdleklrslpegtlGre.YvrfldknkvspdtRapvrf 126
+                                                         + +d++GrrIL     i+++   ++kl++lp++t+G+  Y   l++++v +dtRapv+ 
+  4249at2759_27291_0:0004cb|contig_261:19133-20082|+ 129 V-NDSSGRRILTGTTAITTELH-MDKLAQLPHNTFGYV*Y--RLKERNV-ADTRAPVK- 181
+                                                         7.6889*****99999999988.*****************..6777776.8*******. PP
+
+                                                4249 127 vddeelaYvmq....RyRevHDllHtllglptnvlgEvavKwfEaaqtgLpmcalsalf 181
+                                                         +dd+     mq    RyR++  ++H+  + p  ++gE+++K++ a     pm++ ++++
+  4249at2759_27291_0:0004cb|contig_261:19133-20082|+ 182 IDDP-----MQa*lsRYRQMPRFYHATNM-PLIIEGEITIKLLNA--NLAPMAIRGGIL 232
+                                                         9*99.....544444**********9765.***********9988..455********9 PP
+
+                                                4249 182 gplrlkkekrlleeylpwalragrkakellnvyyEkrweqdleelrkelgiepppk 237
+                                                          p+  k++k+    ylpwa+ +  ++k+llnvy+E+ +e+d+++lrkel+i+ p  
+  4249at2759_27291_0:0004cb|contig_261:19133-20082|+ 233 HPTFEKQRKEY--IYLPWAVTTRLSCKPLLNVYWEEMLEKDVTALRKELKITLPRM 286
+                                                         99988777444..6*************************************98865 PP
+
+>> 4249at2759_45513_0:000539|contig_261:19353-20094|+  <unknown description>
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   90.7   0.0   7.8e-30   7.8e-30      16     237 ..       6     217 ..       2     224 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 90.7 bits;  conditional E-value: 7.8e-30
+                                                4249  16 eklyeghiplsplqkall.vgsavaalldprradmvaalGettgelalkrl.rdkmlsd 72 
+                                                         +++y+gh+p    +k+ll ++   +++ +p+++     lGe+t+ +++ r+  +++ +d
+  4249at2759_45513_0:000539|contig_261:19353-20094|+   6 SPRYNGHVPF-RYEKLLLvCNFRWNSFSHPEDGYNMWGLGEATALPVFLRI*SNNV-ND 62 
+                                                         67899***76.88999999****************************999998886.68 PP
+
+                                                4249  73 peGrrILkerPrinsktvdleklrslpegtlGre.YvrfldknkvspdtRapvrfvdde 130
+                                                         ++GrrIL     i+ +   ++kl++lp++t+G+  Y   l++++v +dtRapv+     
+  4249at2759_45513_0:000539|contig_261:19353-20094|+  63 SSGRRILTGTTAITRDLH-MDKLAQLPHNTFGYV*Y--RLKERNV-ADTRAPVKLST-- 115
+                                                         89*****99999998887.*****************..6777776.8*******865.. PP
+
+                                                4249 131 elaYvmqRyRevHDllHtllglptnvlgEvavKwfEaaqtgLpmcalsalfgplrlkke 189
+                                                          l   + RyR++  ++H+  + p  ++gE+++K++ a   g p  + +++  +lrlk++
+  4249at2759_45513_0:000539|contig_261:19353-20094|+ 116 ILCRHLSRYRQMPRFYHATNM-PLIIEGEITIKLLNA--NGVPWLF-AVVSFTLRLKSK 170
+                                                         88899************9765.************999..5666543.335567999777 PP
+
+                                                4249 190 krllee.ylpwalragrkakellnvyyEkrweqdleelrkelgiepppk 237
+                                                         ++  +  ylpwa+ +  ++k+llnvy+E+ +e+d+++lrkel+i+ p  
+  4249at2759_45513_0:000539|contig_261:19353-20094|+ 171 EK--NI*YLPWAVTTRLSCKPLLNVYWEEMLEKDVTALRKELKITLPRM 217
+                                                         33..4599************************************98865 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (245 nodes)
+Target sequences:                          2  (553 residues searched)
+Passed MSV filter:                         2  (1); expected 0.0 (0.02)
+Passed bias filter:                        2  (1); expected 0.0 (0.02)
+Passed Vit filter:                         2  (1); expected 0.0 (0.001)
+Passed Fwd filter:                         2  (1); expected 0.0 (1e-05)
+Initial search space (Z):                  2  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 12.31
+//
+[ok]

@@ -1,0 +1,3 @@
+contig_342	miniprot	mRNA	19067	20153	1147	-	.	ID=MP008191;Rank=1;Identity=0.8056;Positive=0.8571;Frameshift=15;Target=70224at2759_226126_0:000a0a 1 365
+contig_342	miniprot	CDS	19067	20153	1147	-	0	Parent=MP008191;Rank=1;Identity=0.8056;Frameshift=15;Target=70224at2759_226126_0:000a0a 1 365
+contig_342	miniprot	stop_codon	19067	19069	0	-	0	Parent=MP008191;Rank=1

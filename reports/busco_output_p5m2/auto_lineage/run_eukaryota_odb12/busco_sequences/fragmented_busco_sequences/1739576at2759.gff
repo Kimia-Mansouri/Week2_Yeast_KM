@@ -1,0 +1,2 @@
+contig_307	miniprot	mRNA	9901	10621	544	-	.	ID=MP010958;Rank=1;Identity=0.6850;Positive=0.7799;Frameshift=13;Target=1739576at2759_27291_0:000b56 1 235
+contig_307	miniprot	CDS	9901	10621	544	-	0	Parent=MP010958;Rank=1;Identity=0.6850;Frameshift=13;Target=1739576at2759_27291_0:000b56 1 235

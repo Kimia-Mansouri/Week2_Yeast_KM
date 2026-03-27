@@ -1,0 +1,25 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+431825at2759_27291_0:00044f|contig_4:31784-33635|+  -            601 431825               -            504   6.4e-86  278.2  53.1   1   3    0.0022    0.0037    5.2   8.7     4    77     8    84     5   105 0.63 <unknown description>
+431825at2759_27291_0:00044f|contig_4:31784-33635|+  -            601 431825               -            504   6.4e-86  278.2  53.1   2   3   6.7e-27   1.1e-26   82.8   4.6    71   175   105   208    94   213 0.81 <unknown description>
+431825at2759_27291_0:00044f|contig_4:31784-33635|+  -            601 431825               -            504   6.4e-86  278.2  53.1   3   3     1e-62   1.7e-62  200.9  25.8   167   480   225   560   217   588 0.79 <unknown description>
+431825at2759_322104_0:000668|contig_4:32117-33452|+ -            439 431825               -            504   2.7e-81  263.0  29.9   1   2   9.1e-26   1.5e-25   79.0   4.3    80   176     7   102     1   107 0.83 <unknown description>
+431825at2759_322104_0:000668|contig_4:32117-33452|+ -            439 431825               -            504   2.7e-81  263.0  29.9   2   2   2.1e-59   3.6e-59  190.0  17.7   167   460   118   438   110   438 0.81 <unknown description>
+431825at2759_4577_0:00610f|contig_4:32219-33119|+   -            298 431825               -            504   3.6e-54  173.5   8.8   1   2   1.2e-22     2e-22   68.7   0.2   107   175     1    68     1    73 0.93 <unknown description>
+431825at2759_4577_0:00610f|contig_4:32219-33119|+   -            298 431825               -            504   3.6e-54  173.5   8.8   2   2     2e-34   3.3e-34  107.6   3.8   183   366   102   296   101   298 0.77 <unknown description>
+431825at2759_30069_0:0006e7|contig_4:32219-32682|+  -            141 431825               -            504   1.2e-39  125.5   4.8   1   1   1.4e-39   2.4e-39  124.6   4.8   107   235     1   140     1   141 0.86 <unknown description>
+431825at2759_261658_0:0022e2|contig_4:32111-32636|+ -            173 431825               -            504   3.4e-38  120.8  12.7   1   2     1e-27   1.7e-27   85.5   2.3    77   176     6   101     1   107 0.78 <unknown description>
+431825at2759_261658_0:0022e2|contig_4:32111-32636|+ -            173 431825               -            504   3.4e-38  120.8  12.7   2   2   3.1e-14   5.1e-14   41.0   2.9   183   219   137   172   136   173 0.90 <unknown description>
+431825at2759_418459_0:001a0d|contig_4:32219-32559|+ -            112 431825               -            504   2.3e-31   98.2   5.6   1   2   2.6e-23   4.3e-23   70.9   0.1   107   174     1    67     1    73 0.92 <unknown description>
+431825at2759_418459_0:001a0d|contig_4:32219-32559|+ -            112 431825               -            504   2.3e-31   98.2   5.6   2   2   1.3e-10   2.1e-10   29.1   2.1   166   194    84   112    75   112 0.90 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/431825at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/431825at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/431825at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/431825at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/431825at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:38 2026
+# [ok]

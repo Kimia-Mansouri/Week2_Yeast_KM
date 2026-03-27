@@ -1,0 +1,16 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+10261062at2759_1380566_0:00136c|contig_415:8001-8681|- -            217 10261062             -             67   4.1e-17   50.1   0.9   1   1   7.9e-17   1.1e-16   48.8   0.9     6    67   131   198   128   198 0.80 <unknown description>
+10261062at2759_13502_0:000908|contig_415:7801-8672|-   -            286 10261062             -             67   1.1e-16   48.7   0.7   1   1   1.8e-16   2.4e-16   47.6   0.7     6    67   134   201   131   201 0.80 <unknown description>
+10261062at2759_27291_0:000939|contig_415:7433-8748|-   -            429 10261062             -             67   3.1e-16   47.3   0.8   1   1   5.1e-16   6.8e-16   46.2   0.8     6    67   158   225   155   225 0.80 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/eukaryota_odb12/hmms/10261062at2759.hmm
+# Target file:     reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/10261062at2759.faa
+# Option settings: hmmsearch --domtblout reports/busco_output/auto_lineage/run_eukaryota_odb12/hmmer_output/10261062at2759.out --cpu 1 /data/busco_downloads/lineages/eukaryota_odb12/hmms/10261062at2759.hmm reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/translated_proteins/10261062at2759.faa 
+# Current dir:     /data
+# Date:            Fri Mar 27 03:05:37 2026
+# [ok]

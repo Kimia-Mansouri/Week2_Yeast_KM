@@ -1,0 +1,8 @@
+[M::mp_ntseq_read@0.035*1.33] read 9194334 bases in 432 contigs
+[M::mp_idx_build@0.037*1.31] 72276 blocks
+[M::mp_idx_build@0.102*3.21] collected syncmers
+[M::mp_idx_build@0.185*2.22] 4422016 kmer-block pairs
+[M::mp_idx_print_stat] 1191539 distinct k-mers; mean occ of infrequent k-mers: 3.71; 0 frequent k-mers accounting for 0 occurrences
+[M::main] Version: 0.17-r279
+[M::main] CMD: miniprot -t 8 -d reports/busco_output/auto_lineage/run_eukaryota_odb12/miniprot_output/ref.mpi /data/ankur/polished_genomes/consensus.fasta
+[M::main] Real time: 0.248 sec; CPU: 0.432 sec; Peak RSS: 0.141 GB
