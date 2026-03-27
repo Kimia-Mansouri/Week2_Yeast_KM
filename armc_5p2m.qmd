@@ -41,3 +41,7 @@ if(length(header_lines) == 17) {
   stop("Error: Chromosome count mismatch! Check your input file.")
 }
 ```
+
+```{bash}
+flye --nano-raw "/Users/abatta00/Documents/BINF4010/Week2_Yeast_KM/ankur/clean_reads/ERR1539001_filtered.fastq.gz" --out-dir "ankur/assemble_genomes" --genome-size 12m -t 8 --scaffold -i 5
+```
