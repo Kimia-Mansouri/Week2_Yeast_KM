@@ -1,0 +1,49 @@
+---
+title: "arm_b_5p1m_KD.qmd"
+author: "Krish Desai"
+format: html
+editor: visual
+---
+
+## **Reference Download and Preparation**
+
+```{R}
+#Address
+URL <-"https://ftp.ncbi.nlm.nih.gov/genomes/refseq/fungi/Saccharomyces_cerevisiae/latest_assembly_versions/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.fna.gz"
+
+#Destenatoin file (output)
+
+dest_file <- "GCF_000146045.2_R64_genomic.test.fna.gz"
+
+#Download the file with wget
+download.file(URL, method = "wget", destfile = dest_file)
+
+con <- gzfile("GCF_000146045.2_R64_genomic.test.fna.gz", "rt")
+ygen <- readLines(con)
+close(con)
+
+# 2. Define the new UCSC-style headers (chrI through chrXVI + chrM)
+new_headers <- c(paste0(">chr", as.roman(1:16)), ">chrM")
+
+# 3. Find and Replace
+header_lines <- grep(">", ygen)
+#Look at the header for chromosome 1
+header_lines[1]
+
+# Safety Check: Yeast has 16 nuclear chromosomes + 1 mitochondrial
+if(length(header_lines) == 17) {
+  ygen[header_lines] <- new_headers
+  writeLines(ygen, "S288C_UCSC.fna")
+  message("SUCCESS: Reference renamed to UCSC standards.")
+} else {
+  stop("Error: Chromosome count mismatch! Check your input file.")
+}
+```
+
+# **Part 2: The Reconstruction (Bash)**
+
+## **Step 1: Assembly with Flye & Log Audit**
+
+```{bash}
+flye /Users/kdesai01/Desktop/Genmics_and_transcriptomics/Week2_Yeast_Project/data/clean_reads/ERR1539001_Clean.fastq.gz --outdir data/assamble_genomes --genome-size 12m --threads 8  --scaffold --iterations 5
+```
