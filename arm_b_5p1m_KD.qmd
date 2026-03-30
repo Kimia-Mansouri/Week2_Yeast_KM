@@ -112,3 +112,75 @@ busco -i data/apolished_assembly/consensus.fasta  -o reports/busco_repots -l sac
 # **Part 4: Structural Validation (R & Gviz)**
 
 ## **Step 1: High-Efficiency Alignment & Indexing**
+
+```{bash}
+#ctivate mapping environment
+conda deactivate
+
+conda create -n mapping_env -c bioconda minimap2 samtools -y
+conda activate mapping_env
+minimap2 -h
+minimap2 -h
+# Map and Sort in one step
+# minimap2 -a (output SAM) | samtools sort (input from pipe)
+minimap2 -a -x asm5 S288C_UCSC.fna data/apolished_assembly/consensus.fasta | samtools sort -o assembly_mapped.sorted.bam -
+
+# Create the index
+samtools index assembly_mapped.sorted.bam
+
+# Run the coverage report
+samtools coverage assembly_mapped.sorted.bam -o assembly_cov.txt
+```
+
+```{r}
+# Read the coverage report
+assembly_cov <- read.table("assembly_cov_KD.txt", sep = "\t", header = TRUE, comment.char = "")
+print(assembly_cov)
+
+```
+
+## **Step 2: Programmatic Discovery & Selection**
+
+```{r}
+#| echo: False
+#| eval: False
+
+#Loading the Engine
+library(Gviz)
+library(Rsamtools)
+library(GenomicAlignments)
+library(GenomicRanges)
+
+# 1. Audit the Stats: Find chromosomes > 500kb with high density
+stats <- idxstatsBam("assembly_mapped.sorted_KD.bam")
+print(stats)
+
+# 2. Extract ranges for the entire genome
+bam_file <- "assembly_mapped.sorted_KD.bam"
+alignment_ranges <- bam_file |> readGAlignments() |> GRanges()
+
+# Look at the ranges for ALL chromosomes to see your global success
+range(alignment_ranges)
+
+# Peek at the individual read boundaries
+ranges(alignment_ranges)
+```
+
+## **Step 3: The Custom Visual Audit**
+
+```{r}
+library(Gviz)
+
+# 1. Create the Data Track using the GRanges object (The "Scissors" approach)
+align_track <- AlignmentsTrack(alignment_ranges, name = "Assembly Alignments", fill = "darkblue")
+
+# 2. Create the Ruler
+axis_track <- GenomeAxisTrack()
+
+# 3. Plot
+# Replace the chromosome name and numbers with the ones you discovered!
+plotTracks(list(axis_track, align_track), 
+          from = 81007, 
+           to = 195324, 
+           chromosome = "chr1")
+```
