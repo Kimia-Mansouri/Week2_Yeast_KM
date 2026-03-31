@@ -180,7 +180,7 @@ axis_track <- GenomeAxisTrack()
 # 3. Plot
 # Replace the chromosome name and numbers with the ones you discovered!
 plotTracks(list(axis_track, align_track), 
-          from = 81007, 
-           to = 195324, 
-           chromosome = "chr1")
+          from = 509629, 
+           to = 716466, 
+           chromosome = "chrII")
 ```
